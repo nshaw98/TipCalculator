@@ -1,3 +1,3 @@
 # TipCalculator
 Tip calculator I made in Android Studio
-Want to learn more about app development so this is a basic application that I put together. The main code is in:
+Want to learn more about app development so this is a basic application that I put together. The main code is in: TipCalculator/app/src/main/java/com/nate/tipcalculator/tipcalculator/
